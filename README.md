@@ -30,8 +30,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- URL da Solução: [https://github.com/seu-usuario/advice-generator-app](https://github.com/seu-usuario/advice-generator-app)
-- URL do Site ao Vivo: [https://seu-usuario.github.io/advice-generator-app](https://seu-usuario.github.io/advice-generator-app)
+- Repositório: [https://github.com/alanborgesdev/advice-generator-app](https://github.com/alanborgesdev/advice-generator-app)
+- Deploy: [https://alanborgesdev.github.io/advice-generator-app/](https://alanborgesdev.github.io/advice-generator-app/)
 
 ## Meu processo
 
